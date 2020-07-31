@@ -2,3 +2,20 @@ canvas {
     display: block;
     margin: 0 auto;
 }
+
+.snake__howto {
+    position: absolute;
+    width: 250px;
+    left: 10%;
+    top: 20%;
+}
+
+.snake__howto h1 {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.snake__where {
+    font-size: 14px;
+    font-family: 'Helvetica';
+}
